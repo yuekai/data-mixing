@@ -1,6 +1,7 @@
 # 🧬 RegMix: Data Mixture as Regression for Language Model Pre-training
 
 Welcome to the official repository of [RegMix](https://huggingface.co/papers/2407.01492), a new approach to optimizing data mixtures for large language model (LLM) pre-training!
+Join our [Discord](https://discord.gg/EhPZ59g9) for more discussions.
 
 ## 🌟 What is RegMix?
 
